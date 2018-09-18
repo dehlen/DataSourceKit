@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "DataSourceKit"
-  s.version      = "0.1.0"
+  s.version      = "0.1.1"
   s.summary      = "Declarative, testable data source of UICollectionView and UITableView"
 
   # This description is used to generate tags and improve search results.
@@ -79,7 +79,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/ishkawa/DataSourceKit.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/dehlen/DataSourceKit.git", :tag => "#{s.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
